@@ -1,0 +1,4 @@
+{
+  "scripts": { "postLoad": [ "/pat_scorchedcityfridge.lua" ] },
+  "priority": 1.79769e+308
+}
